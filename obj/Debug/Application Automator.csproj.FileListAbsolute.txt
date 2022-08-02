@@ -1,0 +1,6 @@
+D:\Documents\Projects\C#\Application Automator\bin\Debug\Application Automator.exe.config
+D:\Documents\Projects\C#\Application Automator\bin\Debug\Application Automator.exe
+D:\Documents\Projects\C#\Application Automator\bin\Debug\Application Automator.pdb
+D:\Documents\Projects\C#\Application Automator\obj\Debug\Application Automator.exe
+D:\Documents\Projects\C#\Application Automator\obj\Debug\Application Automator.pdb
+D:\Documents\Projects\C#\Application Automator\obj\Debug\Application Automator.csprojResolveAssemblyReference.cache
