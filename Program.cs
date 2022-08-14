@@ -1,15 +1,7 @@
-﻿/*
- * Created by SharpDevelop.
- * User: FCT-Tester
- * Date: 7/27/2022
- * Time: 7:56 AM
- * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
- */
-using System;
+﻿using System;
 using System.Windows.Forms;
 
-namespace Application_Automator
+namespace ArdeshirV.ApplicationAutomator
 {
 	/// <summary>
 	/// Class with program entry point.

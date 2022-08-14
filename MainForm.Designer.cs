@@ -6,7 +6,7 @@
  * 
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
-namespace Application_Automator
+namespace ArdeshirV.ApplicationAutomator
 {
 	partial class MainForm
 	{

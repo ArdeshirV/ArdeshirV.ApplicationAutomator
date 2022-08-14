@@ -4,3 +4,11 @@ D:\Documents\Projects\C#\Application Automator\bin\Debug\Application Automator.p
 D:\Documents\Projects\C#\Application Automator\obj\Debug\Application Automator.exe
 D:\Documents\Projects\C#\Application Automator\obj\Debug\Application Automator.pdb
 D:\Documents\Projects\C#\Application Automator\obj\Debug\Application Automator.csprojResolveAssemblyReference.cache
+D:\Documents\Projects\0Projects From Windows\C#\ArdeshirV.ApplicationAutomator\bin\Debug\ArdeshirV.ApplicationAutomator.exe.config
+D:\Documents\Projects\0Projects From Windows\C#\ArdeshirV.ApplicationAutomator\bin\Debug\ArdeshirV.ApplicationAutomator.exe
+D:\Documents\Projects\0Projects From Windows\C#\ArdeshirV.ApplicationAutomator\bin\Debug\ArdeshirV.ApplicationAutomator.pdb
+D:\Documents\Projects\0Projects From Windows\C#\ArdeshirV.ApplicationAutomator\bin\Debug\ArdeshirV.Forms.dll
+D:\Documents\Projects\0Projects From Windows\C#\ArdeshirV.ApplicationAutomator\bin\Debug\ArdeshirV.Tools.QrCode.dll
+D:\Documents\Projects\0Projects From Windows\C#\ArdeshirV.ApplicationAutomator\obj\Debug\Application Automator.csprojResolveAssemblyReference.cache
+D:\Documents\Projects\0Projects From Windows\C#\ArdeshirV.ApplicationAutomator\obj\Debug\ArdeshirV.ApplicationAutomator.exe
+D:\Documents\Projects\0Projects From Windows\C#\ArdeshirV.ApplicationAutomator\obj\Debug\ArdeshirV.ApplicationAutomator.pdb
